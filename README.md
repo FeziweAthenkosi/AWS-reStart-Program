@@ -182,10 +182,7 @@ Exploring:
 
 - 🎓 AWS re/Start Program
 - 📘 AWS Cloud Practitioner (In Progress)
-- 📜 Business Intelligence for Business Analysis
-- 📜 National Certificate SAQA in Business Analysis
-- 🎓 BSc Honours in Astrophysics & Space Science
-- 💻 Graduate Data Engineering Programme
+
 
 ---
 
@@ -196,9 +193,8 @@ I’m interested in opportunities related to:
 - Cloud Engineering
 - DevOps
 - Data Engineering
-- Technical Support
-- Cloud Operations
-- Infrastructure Support
+- Data Analyst
+- FinOps Analyst
 
 ---
 
